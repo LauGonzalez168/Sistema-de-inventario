@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FT009 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<RegistroFT009>
+		<clasificacion>consumible</clasificacion>
+		<articulo>papel</articulo>
+		<descripcion>piezas</descripcion>
+		<codigo>455256</codigo>
+		<serie>e2fgw</serie>
+	</RegistroFT009>
+	<RegistroFT009>
+		<clasificacion>electronico</clasificacion>
+		<articulo>laptop</articulo>
+		<descripcion>unidades</descripcion>
+		<codigo>484354</codigo>
+		<serie>esoi57e</serie>
+	</RegistroFT009>
+	<RegistroFT009>
+		<clasificacion>electronico</clasificacion>
+		<articulo>Pc</articulo>
+		<descripcion>unidades</descripcion>
+		<codigo>868752</codigo>
+		<serie>erds5f</serie>
+	</RegistroFT009>
+</FT009>
